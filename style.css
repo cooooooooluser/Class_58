@@ -1,0 +1,52 @@
+img {
+    width: 500px;
+    border-radius: 50%;
+    margin-bottom: :50px;
+    margin-top: 235px;
+}
+
+#welcome {
+    color: white;
+    height: 1000px;
+    background: linear-gradient(#3d868a 0%, #2fba93 100%);
+    font-size: 45;
+    z-index: 9;
+    width: 100%;
+    height: 100%;
+}
+
+#bio {
+    color: black;
+    padding: 50px;
+    font-size: 21px;
+}
+
+p {
+    max-width: 600px;
+}
+
+.list {
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 20px;
+    z-index: 10;
+    margin-left:800;
+}
+
+.links{
+    float: left;
+    color:aqua;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 25px;
+    font-family: 'Orbitron';
+    
+}
+.links:hover{
+    background-color: white;
+}
